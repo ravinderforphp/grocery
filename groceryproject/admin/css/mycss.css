@@ -1,0 +1,214 @@
+body
+{
+	background:#E4E4E4 url(../images/boby.jpg) repeat-x;
+	
+}
+    
+
+.welcome{
+    border-radius: 4px 4px 4px 4px;
+    height: 23px;
+    margin-left: 10px;
+    text-align: center;
+    width: 103px;
+    color:green;
+    font-family:verdana;
+    font-size:12px;
+    margin-top:6px;
+    float: right;
+}
+.adminmenu{
+    font-family:verdana;
+    font-size:12px;
+    height: 39px;
+     background-color: #A8A8A8;
+   
+    
+}
+
+
+
+.adminmenu ul li {
+	float: left;
+	list-style-type:none;
+	
+}
+
+.adminmenu ul li a{
+    list-style:none;
+    text-decoration:none;
+    color:#fff;
+    font-weight: bold;
+    display:block;
+     background: -moz-linear-gradient(center top , #A8A8A8, #454545) repeat scroll 0 0 transparent;
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    display: block;
+    line-height: 39px;
+    padding: 0 10px;
+    text-align: center;
+    transition-duration: 500ms;
+    transition-property: background;
+   
+}
+
+.mainnav{
+ margin:0 auto;
+ width:1000px;
+ border:1px solid #2C2D2B;
+ box-shadow: 1px 1px 10px #2C2D2B; 
+min-height: 1035px;
+}
+
+
+
+  .container{
+	min-height: 320px;
+	
+
+ }
+ 
+ 
+ 
+ .siderbar_left{
+	border:1px solid #2C2D2B;
+ box-shadow: 1px 1px 10px #2C2D2B; 
+	margin: 10px;
+	float: left;
+	width: 200px;
+	min-height: 320px;
+	
+ }
+ .siderbar_right{
+	border:1px solid #2C2D2B;
+	box-shadow: 1px 1px 10px #2C2D2B; 
+	margin: 10px;
+	float: left;
+	width: 750px;
+	min-height: 320px;
+	
+ }
+ 
+ .siderbar_right h2{
+	font-family: verdana;
+	font-size: 18px;
+	padding: 10px;
+ }
+ 
+ .CategoryName label{
+	font-family: verdana;
+	font-size: 14px;
+	
+ }
+ 
+ .siderbar_left h2{
+	font-family: verdana;
+	font-size: 18px;
+	padding: 10px;
+ }
+ 
+ .welcome{
+	color: #fff;
+	font-family: verdana !important;
+	font-size: 14px;
+	margin-right: 20px;
+	font-weight: bold;
+ }
+ 
+ 
+ .CategoryName{
+	float: left;
+	margin: 10px;
+	margin-top: 35px;
+ }
+ 
+ .ProductName{
+	float: left;
+	margin: 10px;
+ }
+ 
+ 
+ .formLayout
+    {
+        background-color: #f3f3f3;
+        border: solid 1px #a1a1a1;
+        padding: 24px;
+        width: 700px;
+    }
+    
+    .formLayout label, .formLayout input
+    {
+        display: block;
+        width: 175px;
+        float: left;
+        margin-bottom: 10px;
+	font-family: verdana;
+	font-size: 14px;
+    }
+ 
+    .formLayout label
+    {
+        text-align: right;
+        padding-right: 20px;
+    }
+ 
+    br
+    {
+        clear: left;
+    }
+    
+    
+    
+    .siderbar_left ul li{
+	list-style: none;
+	font-family: verdana;
+	font-size: 18px;
+	padding: 10px;
+	
+    }
+    
+   
+/*    Admin product list css*/
+
+.siderbar{
+	border:1px solid #2C2D2B;
+	box-shadow: 1px 1px 10px #2C2D2B; 
+	margin: 10px;
+	float: left;
+	width: 980px;
+	min-height: 320px;
+	
+ }
+ 
+ 
+ #divCelldel{
+	float: left;
+	border: 1px solid #fff;
+	border-radius: 18px;
+	background-color: #fff;
+	margin-left: 10px;
+	margin-top: 14px;
+	width: 40px;
+	text-align: center;
+	box-shadow: 1px 1px 10px #DC9849;
+	
+	
+	
+  
+   box-shadow: inset 0 1px 3px lightgreen, inset 0 -5px 15px #C1CDDA, 0 2px 1px black;
+   -o-box-shadow: inset 0 1px 3px lightgreen, inset 0 -5px 15px #C1CDDA, 0 2px 1px black;
+   -webkit-box-shadow: inset 0 1px 3px lightgreen, inset 0 -5px 15px #C1CDDA, 0 2px 1px black;
+   -moz-box-shadow: inset 0 1px 3px lightgreen, inset 0 -5px 15px #C1CDDA, 0 2px 1px black;
+   color: white;
+   text-shadow: 0 1px 1px black;
+   padding: 5px 20px;
+	
+     }
+ 
+  #divCelldel a:link {
+	color: #000 !important;
+	font-family: verdana;
+	font-size: 12px;
+	
+	
+}
